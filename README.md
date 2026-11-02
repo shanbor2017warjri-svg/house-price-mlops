@@ -1,4 +1,4 @@
-\# House Price Prediction — MLOps Project
+\# MLOps Project
 
 
 
