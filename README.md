@@ -164,26 +164,6 @@ Open Swagger UI:
 
 
 
-Example request:
-
-
-
-```json
-
-{
-
-&#x20; "area\_sqft": 100,
-
-&#x20; "bedrooms": 2,
-
-&#x20; "bathrooms": 1,
-
-&#x20; "house\_age": 5
-
-}
-
-```
-
 
 
 The API returns the predicted house price in INR.
@@ -202,5 +182,5 @@ Git is used to track project source code and changes. Generated model files and 
 
 
 
-The project implements an end-to-end local MLOps workflow, from data preparation through model training, experiment tracking, model persistence, and API-based predictions.
+The project implements an end-to-end local MLOps workflow.
 
