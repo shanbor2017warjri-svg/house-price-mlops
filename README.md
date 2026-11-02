@@ -16,24 +16,17 @@ The project includes dataset preparation, preprocessing, model training, evaluat
 \## Technologies Used
 
 
-
-\- Python
-
-\- Pandas and NumPy
-
-\- Scikit-learn
-
-\- MLflow
-
-\- Joblib
-
-\- FastAPI
-
-\- Uvicorn
-
-\- Git
-
-\- SQLite
+Python	Programming Language
+NumPy	Numerical Operations
+Pandas	Data Processing
+Scikit-learn	Machine Learning
+Linear Regression	Prediction Algorithm
+MLflow	Experiment Tracking
+Joblib	Model Saving
+FastAPI	API Development
+Uvicorn	API Server
+Git & GitHub	Version Control
+SQLite
 
 
 
