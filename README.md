@@ -5,8 +5,7 @@
 \## Project Overview
 
 
-
-This project demonstrates a machine learning workflow for predicting house prices in Indian Rupees using Linear Regression.
+This project focuses on predicting house prices using Machine Learning and MLOps concepts.
 
 
 
