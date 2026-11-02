@@ -8,11 +8,6 @@
 This project focuses on predicting house prices using Machine Learning and MLOps concepts.
 
 
-
-The project includes dataset preparation, preprocessing, model training, evaluation, MLflow experiment tracking, Git version control, and FastAPI deployment.
-
-
-
 \## Technologies Used
 
 
